@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geek-prince7
-- 👀 I’m interested in Machine Learning and web dev
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on OpenCV projects
+- 👀 I’m interested in Web dev
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me +918448824377
 
 <!---
