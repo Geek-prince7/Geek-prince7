@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Geek-prince7
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Development
+- 🌱 I’m experienced in Django,Node js , SpringBoot
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me +918448824377
+- 📫 How to reach me princedby729@gmail.com
 
 <!---
 Geek-prince7/Geek-prince7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
