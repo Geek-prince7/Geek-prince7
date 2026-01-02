@@ -12,7 +12,7 @@
 - 💬 Ask me about **System Design, Microservices, Redis/Caching, Kafka, API design, CI/CD, Observability**.
 - 🌐 Portfolio: https://princedubey.com/
 - 📫 Reach me: **vibpri729@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1k3JWr1UOPXnnTWdYfnY-NGqu_1JviFnB/view?usp=sharing
+- 📄 Resume: https://drive.google.com/file/d/1rAQunQTBnviI8BukgQB93rvJrqvsFFn1/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -110,14 +110,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-</p>
-
-<h3 align="left">Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geek-prince7&show_icons=true&locale=en" alt="geek-prince7" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geek-prince7&show_icons=true&locale=en&layout=compact" alt="geek-prince7" />
 </p>
 
 <!-- Optional -->
